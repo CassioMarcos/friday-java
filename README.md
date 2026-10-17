@@ -31,7 +31,7 @@ A ordem pode mudar durante o aprendizado. Não há prazo fixo.
 - **IntelliJ IDEA:** ambiente de desenvolvimento.
 - **Git e GitHub:** versionamento do projeto.
 
-**Para estudar futuramente**, quando forem necessários: orientação a objetos, JDBC, SQLite/SQL, HTTP/JSON, APIs, reconhecimento de fala e modelos de linguagem. Não é preciso usar tudo desde o começo.
+**Para estudar futuramente**, quando forem necessários: orientação a objetos, JDBC, SQLite/SQL, HTTP/JSON, APIs, reconhecimento de fala e modelos de linguagem. 
 
 ## Primeiros passos
 
