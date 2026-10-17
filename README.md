@@ -1,6 +1,6 @@
-# F.R.I.D.A.Y. 🤖
+# F.R.I.D.A.Y. 
 
-**Assistente pessoal para Windows, desenvolvido em Java — um passo de cada vez.**
+**Assistente pessoal para Windows, desenvolvido em Java.**
 
 A F.R.I.D.A.Y. é um projeto pessoal de aprendizado: a ideia é construir uma assistente que receba comandos, automatize tarefas no computador e, futuramente, converse por texto e voz.
 
