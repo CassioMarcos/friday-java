@@ -1,0 +1,25 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+target/
+build/
+.gradle/
+
+# IDE / sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Arquivos locais, credenciais e bancos
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+*.key
+*.pem
